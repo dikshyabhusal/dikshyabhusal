@@ -6,7 +6,7 @@
 ---
 
 ### 🔥 **About Me**
-- 🎯 **Currently Working On:** [Yatra - An Adventure Travel Planner](https://github.com/dikshyabhusal/Yatra)  
+- 🎯 **Currently Working On:** [Music Player system](https://github.com/dikshyabhusal/Music-Player)  
 - 🌱 **Currently Learning:** Laravel    
 - 📫 **Reach Me At:**  
   - [📩 Email](mailto:dikshyabhusal48@gmail.com)  
@@ -23,5 +23,4 @@
 ---
 
 ### 📌 **Pinned Projects**
-💼 [**Yatra - Adventure Travel Planner**](https://github.com/dikshyabhusal/Yatra)  
-🚗 [**Car Rental Platform**](https://github.com/dikshyabhusal/car-rental) 
+🚗 [**Car Rental Platform**](https://github.com/dikshyabhusal/Car-Fusion-project) 
